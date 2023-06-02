@@ -22,13 +22,16 @@
     + Posting non-tech related content and links in the Community. ( All posts are subject to review by Community Admins and can be removed if deemed inappropriate. ) <br>
     + Publishing others' private information, such as a physical or contact address, without their explicit permission. <br>
     + Other conduct which could reasonably be considered inappropriate in a professional setting. <br>
+    + No posting of non-tech related content.
+    + Posting of non-tech related contents will attract 3 days suspension.
+    + Show respect always for each other and their opinions.
 
 ## Our Responsibilities
 Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
 <strong> Community leaders have the right and responsibility to remove, edit, or reject posts, comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate. </strong>
 
 ## Scope
-This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our Community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
+This Code of Conduct applies within all Community spaces such as on [WhatsApp](https://chat.whatsapp.com/JbGPfThrKAB71tp8K1UBUh), [Linkedin](https://www.linkedin.com/company/mlsaunizik) and [Twitter](https://twitter.com/mlscunizik) and also applies when an individual is officially representing the community in public spaces. Examples of representing our Community include posting via an official social media account, or acting as an appointed representative at an online or offline event.
 
 ## Enforcement
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the [Community Leaders](#community-leaders) responsible for enforcement. All complaints will be reviewed and investigated promptly and fairly.
@@ -39,7 +42,7 @@ If for any reason, you feel unsafe, unwelcome or uncomfortable as a result of an
 
 # Community Leaders
 + Nehemiah Emmanuel via emmanueln644@gmail.com, call or text through sms or WhatsApp on +2348163128234 <br>
-+ Maduabuchi Blessing via maduabuchiblessing04@gmail.com.
++ Maduabuchi Blessing via maduabuchiblessing04@gmail.com, call or text through sms or WhatsApp on +2349168809851
 
 # Attribution 
 This Code of Conduct is adapted from [here](https://github.com/nworiekingslee/GitHub-NAU/blob/main/CODE%20OF%20CONDUCT.md)
