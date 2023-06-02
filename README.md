@@ -31,7 +31,7 @@ Community leaders are responsible for clarifying and enforcing our standards of 
 <strong> Community leaders have the right and responsibility to remove, edit, or reject posts, comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate. </strong>
 
 ## Scope
-This Code of Conduct applies within all Community spaces such as on [WhatsApp](https://chat.whatsapp.com/JbGPfThrKAB71tp8K1UBUh), [Linkedin](https://www.linkedin.com/company/mlsaunizik) and [Twitter](https://twitter.com/mlscunizik) and also applies when an individual is officially representing the community in public spaces. Examples of representing our Community include posting via an official social media account, or acting as an appointed representative at an online or offline event.
+This Code of Conduct applies within all Community spaces such as on [WhatsApp](https://chat.whatsapp.com/JbGPfThrKAB71tp8K1UBUh), [Linkedin](https://www.linkedin.com/company/mlsaunizik), [Twitter](https://twitter.com/mlscunizik), [GitHub](https://github.com/mlscunizik/), and also applies when an individual is officially representing the Community in public spaces. Examples of representing our Community include posting via an official social media account, or acting as an appointed representative at an online or offline event.
 
 ## Enforcement
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the [Community Leaders](#community-leaders) responsible for enforcement. All complaints will be reviewed and investigated promptly and fairly.
